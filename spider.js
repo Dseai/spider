@@ -13,7 +13,7 @@ var browserMsg={
     };
     //模拟登陆
     //querystring.stringify()
-    var postData = {
+    /*var postData = {
   		__EVENTTARGET : '',
   		__EVENTARGUMENT:'',
   		__LASTFOCUS:'',
@@ -25,7 +25,7 @@ var browserMsg={
   		TeaNum:'',
   		Password:'SYN123XD',
   		login:'登录'
-  		}
+  		}*/
 
     //访问登录接口获取cookie
     // function getLoginCookie() {
